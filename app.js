@@ -4,7 +4,6 @@ const ulListaAmigos = document.getElementById ("listaAmigos");
 const ulResultado = document.getElementById("resultado");
 function agregarAmigo() {
     listaAmigos.push(inputAmigo.value);
-    //ulListaAmigos.innerHTML = ulListaAmigos.innerHTML + "pablo";
     ulListaAmigos.innerHTML += `<li>${inputAmigo.value}</li>`;
 }
 
