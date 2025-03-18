@@ -36,7 +36,7 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 
 Clona este repositorio:
 
-git clone https://github.com/tuusuario/amigo-secreto.git
+git clone (https://mussolinnii.github.io/Challenge-amigo-secreto/)
 
 Ingresa a la carpeta del proyecto:
 
