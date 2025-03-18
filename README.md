@@ -1,10 +1,10 @@
 Challenge amigo secreot
 
-Descripción
+-Descripción
 
 Este proyecto forma parte del challenge de Alura Cursos, donde se desarrolla una aplicación para organizar un juego de "Amigo Secreto" de manera digital. La aplicación permite a los participantes inscribirse y realizar el sorteo de forma automática, garantizando que cada persona tenga un amigo secreto asignado sin repeticiones.
 
-Tecnologías utilizadas
+-Tecnologías utilizadas
 
 Este proyecto fue desarrollado utilizando:
 
@@ -16,7 +16,7 @@ Node.js con Express para el backend (si aplica).
 
 Firebase / LocalStorage para almacenamiento de datos (si aplica).
 
-Características principales
+-Características principales
 
 Registro de participantes
 
@@ -30,7 +30,7 @@ Capturas de pantalla
 
 Agrega aquí algunas imágenes o gifs de la aplicación en funcionamiento.
 
-Instalación y uso
+-Instalación y uso
 
 Para ejecutar el proyecto localmente, sigue estos pasos:
 
@@ -54,7 +54,7 @@ Contribuciones
 
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-Realiza un fork del repositorio.
+-Realiza un fork del repositorio.
 
 Crea una rama con tu nueva funcionalidad:
 
